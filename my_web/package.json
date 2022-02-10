@@ -72,7 +72,7 @@
       "json-loader": "^0.5.4",
       "lolex": "^1.5.0",
       "nightwatch": "^0.8.18",
-      "node-sass": "^4.11.0",
+      "node-sass": "^7.0.0",
       "opn": "^5.1.0",
       "optimize-css-assets-webpack-plugin": "^2.0.0",
       "ora": "^1.2.0",
